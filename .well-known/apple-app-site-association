@@ -1,0 +1,29 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "4YP7SQBLYV.co.furari.Furarico"
+        ],
+        "components": [
+          {
+            "/": "/*",
+            "?": {
+              "skipul": "?*"
+            },
+            "exclude": true
+          },
+          {
+            "/": "/app/*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "4YP7SQBLYV.co.furari.Furarico"
+    ]
+  }
+}
